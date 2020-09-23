@@ -1,0 +1,17 @@
+A 
+
+1.Mi a külömbség a teli és az üres elem között példával.
+  
+  -Az egyiknek van a másiknak nics nyitó és záró tag-je 
+
+2.Sorolj fel három meta elemet!
+  
+-meta charset
+ -title
+-css link 
+
+3.Emmet utasítás átírása: p>({példa:  }+spam{ez itt egy példa}+{az emmet-ről})
+
+<p>példa: <span Ez itt egy példa/span></p>
+
+
